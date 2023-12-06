@@ -35,5 +35,5 @@ elif opperation == "temp":
         exit()
 
 else:
-    print("plz ente the right opperation symbol")
+    print("plz enter the right opperation symbol")
     exit()
